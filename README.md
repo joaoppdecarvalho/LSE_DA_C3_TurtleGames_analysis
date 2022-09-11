@@ -1,6 +1,6 @@
 # LSE_DA_C3_TurtleGames_analysis
-Turtle Games - Advanced analysis
 
+João Carvalho - Assignment
 
 Data analysis for Turtle Games, a game manufacturer and retailer. They manufacture and sell their own products, along with sourcing and selling products manufactured by other companies. Their product range includes books, board games, video games and toys. They have a global customer base and have a business objective of improving overall sales performance by utilising customer trends. 
 
