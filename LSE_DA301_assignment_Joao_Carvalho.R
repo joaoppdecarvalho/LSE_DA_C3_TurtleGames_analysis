@@ -262,7 +262,6 @@ p + geom_density() +  labs(title="Density lines of Sales",
                            subtitle="(£ Millions)")
 
 # Top 10 products with highest value of global_sales
-newdata <- mtcars[order(mpg),]
 top10_global<-group_product[order(-group_product$Global_Sales),]
 df_top10_global <-head(top10_global,10)
 view(df_top10_global)
